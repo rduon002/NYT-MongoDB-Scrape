@@ -1,0 +1,31 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "json package for MongoScraper application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rduon002/NYT-MongoDB-Scrape"
+  },
+  "author": "Ritchie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rduon002/NYT-MongoDB-Scrape/issues"
+  },
+  "homepage": "https://github.com/rduon002/NYT-MongoDB-Scraper#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bootstrap3-dialog": "^1.35.4",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.10",
+    "mongoose": "^4.12.1",
+    "mongoose-unique-validator": "^1.0.6",
+    "morgan": "^1.9.0",
+    "request": "^2.83.0"
+  }
+}

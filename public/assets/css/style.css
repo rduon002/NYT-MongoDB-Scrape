@@ -1,0 +1,24 @@
+.jumbotron {
+  background: url("../images/newspapers.jpg") no-repeat center center fixed;
+  -webkit-backgroun-size: cover;
+  -moz-background-size: cover;
+  -o-backgroun-size: cover;
+  background-size: auto;
+}
+
+body {
+  background: url("../images/background2.jpg") no-repeat center center fixed;
+  -webkit-backgroun-size: cover;
+  -moz-background-size: cover;
+  -o-backgroun-size: cover;
+  background-size: cover;
+}
+
+textarea {
+  width: 100%;
+}
+
+#jumbo-title{
+  font-weight: bold;
+  color: orangered;
+}
